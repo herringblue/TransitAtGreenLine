@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+  </head>
+  <docTitle>
+    <text>Transit At Green Line</text>
+  </docTitle>
+<navMap>
+  <navPoint id="toc" playOrder="1">
+    <navLabel>
+      <text>Table of Contents</text>
+    </navLabel>
+    <content src="index.html#toc"/>
+  </navPoint>
+  <navPoint id="0" playOrder="2">
+    <navLabel>
+      <text>Prologue</text>
+    </navLabel>
+    <content src="index.html#0"/>
+  </navPoint>
+  <navPoint id="1" playOrder="3">
+    <navLabel>
+      <text>Transit At Green Line</text>
+    </navLabel>
+    <content src="index.html#1"/>
+  </navPoint>
+  <navPoint id="2" playOrder="4">
+    <navLabel>
+      <text>Nineteen</text>
+    </navLabel>
+    <content src="index.html#2"/>
+  </navPoint>
+  <navPoint id="3" playOrder="5">
+    <navLabel>
+      <text>Resonance</text>
+    </navLabel>
+    <content src="index.html#3"/>
+  </navPoint>
+  <navPoint id="4" playOrder="6">
+    <navLabel>
+      <text>Splatter, Scatter</text>
+    </navLabel>
+    <content src="index.html#4"/>
+  </navPoint>
+  <navPoint id="5" playOrder="7">
+    <navLabel>
+      <text>Wayfaring</text>
+    </navLabel>
+    <content src="index.html#5"/>
+  </navPoint>
+  <navPoint id="6" playOrder="8">
+    <navLabel>
+      <text>Waves</text>
+    </navLabel>
+    <content src="index.html#6"/>
+  </navPoint>
+  <navPoint id="7" playOrder="9">
+    <navLabel>
+      <text>The Plateau</text>
+    </navLabel>
+    <content src="index.html#7"/>
+  </navPoint>
+  <navPoint id="8" playOrder="10">
+    <navLabel>
+      <text>The Heart</text>
+    </navLabel>
+    <content src="index.html#8"/>
+  </navPoint>
+  <navPoint id="9" playOrder="11">
+    <navLabel>
+      <text>What Are Afternoons For?</text>
+    </navLabel>
+    <content src="index.html#9"/>
+  </navPoint>
+  <navPoint id="10" playOrder="12">
+    <navLabel>
+      <text>Feat</text>
+    </navLabel>
+    <content src="index.html#10"/>
+  </navPoint>
+  <navPoint id="11" playOrder="13">
+    <navLabel>
+      <text>Brown Eyes</text>
+    </navLabel>
+    <content src="index.html#11"/>
+  </navPoint>
+  <navPoint id="12" playOrder="14">
+    <navLabel>
+      <text>Tweny</text>
+    </navLabel>
+    <content src="index.html#12"/>
+  </navPoint>
+  <navPoint id="13" playOrder="15">
+    <navLabel>
+      <text>Stained Wolves</text>
+    </navLabel>
+    <content src="index.html#13"/>
+  </navPoint>
+  <navPoint id="14" playOrder="16">
+    <navLabel>
+      <text>Traveling</text>
+    </navLabel>
+    <content src="index.html#14"/>
+  </navPoint>
+  <navPoint id="15" playOrder="17">
+    <navLabel>
+      <text>Gut</text>
+    </navLabel>
+    <content src="index.html#15"/>
+  </navPoint>
+</navMap>
+</ncx>

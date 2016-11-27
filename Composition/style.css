@@ -1,0 +1,48 @@
+@font-face {
+    font-family: bebas;
+    src: url(bebas.TTF);
+}
+
+body {
+  color: black;
+  font-family: 'Times New Romans';
+}
+
+p {
+  margin-top: 1em;
+  text-indent: 0em;
+  margin-bottom: 1.5em;
+  font-size: 12pt;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+h1, h2 {
+  font-family: bebas;
+  margin: 2em 0 1em;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+#toc {
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.pagebreak {
+  page-break-before: always;
+}
+
+#fin {
+  margin-top: 5em;
+  font-size: 1.2em;
+  font-style: italic;
+  text-align: center;
+}
