@@ -58,57 +58,69 @@
   </navPoint>
   <navPoint id="7" playOrder="9">
     <navLabel>
-      <text>The Plateau</text>
+      <text>Interlude: Pertaining To, But Not Of, Fieldcraft</text>
     </navLabel>
     <content src="index.html#7"/>
   </navPoint>
   <navPoint id="8" playOrder="10">
     <navLabel>
-      <text>The Heart</text>
+      <text>The Plateau</text>
     </navLabel>
     <content src="index.html#8"/>
   </navPoint>
   <navPoint id="9" playOrder="11">
     <navLabel>
-      <text>What Are Afternoons For?</text>
+      <text>The Heart</text>
     </navLabel>
     <content src="index.html#9"/>
   </navPoint>
   <navPoint id="10" playOrder="12">
     <navLabel>
-      <text>Feat</text>
+      <text>What Are Afternoons For?</text>
     </navLabel>
     <content src="index.html#10"/>
   </navPoint>
   <navPoint id="11" playOrder="13">
     <navLabel>
-      <text>Brown Eyes</text>
+      <text>Feat</text>
     </navLabel>
     <content src="index.html#11"/>
   </navPoint>
   <navPoint id="12" playOrder="14">
     <navLabel>
-      <text>Tweny</text>
+      <text>Brown Eyes</text>
     </navLabel>
     <content src="index.html#12"/>
   </navPoint>
   <navPoint id="13" playOrder="15">
     <navLabel>
-      <text>Stained Wolves</text>
+      <text>Tweny</text>
     </navLabel>
     <content src="index.html#13"/>
   </navPoint>
   <navPoint id="14" playOrder="16">
     <navLabel>
-      <text>Traveling</text>
+      <text>Stained Wolves</text>
     </navLabel>
     <content src="index.html#14"/>
   </navPoint>
   <navPoint id="15" playOrder="17">
     <navLabel>
-      <text>Gut</text>
+      <text>Traveling</text>
     </navLabel>
     <content src="index.html#15"/>
+  </navPoint>
+  <navPoint id="16" playOrder="18">
+    <navLabel>
+      <text>Gut</text>
+    </navLabel>
+    <content src="index.html#16"/>
+  </navPoint>
+  <navPoint id="17" playOrder="19">
+    <navLabel>
+      <text>Annex</text>
+    </navLabel>
+    <content src="index.html#17"/>
   </navPoint>
 </navMap>
 </ncx>
