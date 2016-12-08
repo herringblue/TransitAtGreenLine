@@ -40,8 +40,16 @@ ul {
   page-break-before: always;
 }
 
+.solo {
+  top: 50%;
+  left: 50%;
+  text-align: center;
+}
+
 #fin {
-  margin-top: 5em;
+  top: 50%;
+  left: 50%;
+  margin-top: 20%;
   font-size: 1.2em;
   font-style: italic;
   text-align: center;
